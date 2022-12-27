@@ -1,1 +1,10 @@
-* TODO begin collecting project TODOs
+This is a meta-file about the general state of the project
+
+* ToDo's
+** TODO Set up wacom tablet bindings
+*** TODO Set up file creation using nix home-manager
+*** TODO Figure out what the bindings need to be
+*** TODO Set up service to automattically start wacom binding on machine start up
+- EXWM shell command ?
+** TODO Create First/intro Blog for A weekly series
+** TODO Create blog post about setting up a wacom tablet on nixos / linux
