@@ -1,1 +1,17 @@
-* TODO Fill in landing page description
+* ART-180
+This repository holds all the art work from my first six months of practice. During this time it is my goal to spend 4 hours a day, 5 days a week. Doing focused and deliberate practice. Largely split into three groups.
+- 1 Hour of fundamental drawing exercises
+- 3 Hours of Guided exercises. Following the [[https://www.goodreads.com/book/show/3061.The_Natural_Way_to_Draw][The Natural Way to Draw]] schedules.
+- Weekend capstone Projects.
+
+** Fundamental Exercises
+The goal of these are to build the strength and coordination for this style of art.
+
+** Guided Exercises
+While mostly following [[https://www.goodreads.com/book/show/3061.The_Natural_Way_to_Draw][The Natural Way to Draw]] lesson plan. I do plan on making some changes based on personal preference.
+
+*** Customization
+- Replace normal Gesture technique with technique described by the  [[https://www.youtube.com/playlist?list=PLTlZSPbm1zgJUT_CljARO0Z1xpCaFoY8O][Proko Gesture]] playlist on YouTube.
+
+** Capstone Projects
+- These will be larger, and longer projects of my own choosing. Done 1 per weekend. Used as a way to explore the digital medium, and measure my own growth.
