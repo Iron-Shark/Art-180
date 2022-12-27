@@ -4,14 +4,20 @@ This repository holds all the art work from my first six months of practice. Dur
 - 3 Hours of Guided exercises. Following the [[https://www.goodreads.com/book/show/3061.The_Natural_Way_to_Draw][The Natural Way to Draw]] schedules.
 - Weekend capstone Projects.
 
-** Fundamental Exercises
+*** Fundamental Exercises
 The goal of these are to build the strength and coordination for this style of art.
 
-** Guided Exercises
+*** Guided Exercises
 While mostly following [[https://www.goodreads.com/book/show/3061.The_Natural_Way_to_Draw][The Natural Way to Draw]] lesson plan. I do plan on making some changes based on personal preference.
 
-*** Customizations
+**** Customizations
 - Replace normal Gesture technique with technique described by the  [[https://www.youtube.com/playlist?list=PLTlZSPbm1zgJUT_CljARO0Z1xpCaFoY8O][Proko Gesture]] playlist on YouTube.
 
-** Capstone Projects
+*** Capstone Projects
 - These will be larger, and longer projects of my own choosing. Done 1 per weekend. Used as a way to explore the digital medium, and measure my own growth.
+
+** Resources
+- A comprehensive list of resources used during this project can be found in the  [[./resources.org][resources.org]] file.
+- A walk through of my experience with this program can be found on my blog [......] (link to blog tag)
+
+*** TODO Create blog tag for article chain
