@@ -11,7 +11,7 @@ The goal of these are to build the strength and coordination for this style of a
 While mostly following [[https://www.goodreads.com/book/show/3061.The_Natural_Way_to_Draw][The Natural Way to Draw]] lesson plan. I do plan on making some changes based on personal preference.
 
 **** Customizations
-- Replace normal Gesture technique with technique described by the  [[https://www.youtube.com/playlist?list=PLTlZSPbm1zgJUT_CljARO0Z1xpCaFoY8O][Proko Gesture]] playlist on YouTube.
+- Replace normal Gesture technique with technique described by the [[https://www.youtube.com/playlist?list=PLTlZSPbm1zgJUT_CljARO0Z1xpCaFoY8O][Proko Gesture]] playlist on YouTube.
 
 *** Capstone Projects
 - These will be larger, and longer projects of my own choosing. Done 1 per weekend. Used as a way to explore the digital medium, and measure my own growth.
