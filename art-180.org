@@ -7,4 +7,43 @@ This is a meta-file about the general state of the project
 *** TODO Set up service to automattically start wacom binding on machine start up
 - EXWM shell command ?
 ** TODO Create First/intro Blog for A weekly series
-** TODO Create blog post about setting up a wacom tablet on nixos / linux
+** TODO Create blog post about setting up a wacom tablet on nixos / Linux
+
+* Keybindings For Tablet Only Work Flow
+** Upper Group
+*** =(Ctrl-s)= Quick Save
+**** =(Ctrl-Shft-s)= Save As
+**** =(Ctrl-Alt-s)= Incremental Save
+*** =PgDwn= Move Focus Down 1 Layer
+**** =(PgDwn-Shft)= Move Focus Up 1 Layer
+**** =(PgDwn-Ctrl)= Move Layer Down 1
+**** =(PgDwn-Shft-Ctrl)= Move Layer Up1
+*** =insert= Create and move to new Layer
+**** =(Shft-Insert)= Create and move to new Vector Layer
+**** =(Ctrl-Insert)= Delete currently active Layer
+**** =(Alt-Insert)= Toggle Current Layer Visibility
+*** =alt=
+** Middle Key
+*** =(Ctrl-z)= Undo
+*** =(Ctrl-Shft-z)= Redo
+*** =(Ctrl-Alt-z)= Reset Zoom
+** Lower Group
+*** =shft=
+*** =ctrl=
+*** =t= Move Tool
+**** =(Ctrl-t)= Transform Tool
+**** =(Shft-t)= Freehand Selection Tool
+*** =b= Free Hand Brush Tool
+**** =(Shft-b)= Contiguous Selection Tool
+**** Bucket Tool
+**** =(Ctrl-b)= Color Balance
+** Pen
+*** Point
+**** =(Shft-Point)= Change Brush Size
+**** =(Ctrl-Point)= Color Picker
+*** Lower Button : =e= Grab Canvas
+**** =(Shft-e)= Rotate Canvas
+**** =(Ctrl-e)= Zoom Canvas
+**** =(Alt-e)= Mirror Canvas
+*** Upper Button : =(p)= Open Pop-Up Pallete
+**** =(Shft-p)= Hide GUI
