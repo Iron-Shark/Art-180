@@ -67,3 +67,6 @@ This is a meta-file about the general state of the project
 - Even with the shortened times. Fatigue is a real problem. Art quality is noticeably going down.
 - Took a break to eat lunch before doing the last 3 problems. Lots of internal resistance to getting started again. I really don't enjoy these contour drawings. I feel like they just take so much slow deliberate focus, and it's mentally exhausting.
 - Stopped after 5 drawings. I really don't like this style of practice. Luckily tomorrow uses gesture to break things up a lot.
+*** Day 2
+- Going to do 20 gestures, rather than 25. For easier integration with quickpose.
+- Things went better today. The gesture drawings were less fatiguing. Still pretty much running out of gas by the end of the 3 hours.
