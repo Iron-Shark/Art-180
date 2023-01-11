@@ -8,6 +8,7 @@ This is a meta-file about the general state of the project
 - EXWM shell command ?
 ** TODO Create First/intro Blog for A weekly series
 ** TODO Create blog post about setting up a wacom tablet on nixos / Linux
+** TODO Find new name for series
 
 * Keybindings For Tablet Only Work Flow
 ** Upper Group
@@ -47,3 +48,22 @@ This is a meta-file about the general state of the project
 **** =(Alt-e)= Mirror Canvas
 *** Upper Button : =(p)= Open Pop-Up Pallete
 **** =(Shft-p)= Hide GUI
+* Schedules
+** 1
+| Time     | A           | B           | C           | D           | E                     |
+| 1/2 Hour | 1 Contour   | 25 Gesture  | 25 Gesture  | 25 Gesture  | 25 Gesture            |
+| 1/2 Hour | 1 Contour   | 1 Contour   | 1 Contour   | 1 Contour   | 1 Sheet Cross Contour |
+| 1/4 Hour | 1 Contour   | 15 Gesture  | 15 Gesture  | 15 Gesture  | 15 Gesture            |
+| 1/4 Hour | Rest        | Rest        | Rest        | Rest        | Rest                  |
+| 1/2 Hour | 1 Contour   | 25 Gesture  | 25 Gesture  | 25 Gesture  | 25 Gesture            |
+| 1 Hour   | 1-2 Contour | 1-2 Contour | 1-2 Contour | 1-2 Contour | 1-2 Contour           |
+- All exercises are drawings.
+* Notes
+** Week 1
+*** Day 1
+- Basic exercises went well. Need to add better exercises for straight lines, and pressure control
+- First NWTD exerces went ok. Went to fast and looked at the canvas too much. Its really hard to stay focused on these exercises. They just feel extremely slow and draining to do.
+- I am modifying the times for this first day. 20mins instead of 30, and 10mins instead of 15.
+- Even with the shortened times. Fatigue is a real problem. Art quality is noticeably going down.
+- Took a break to eat lunch before doing the last 3 problems. Lots of internal resistance to getting started again. I really don't enjoy these contour drawings. I feel like they just take so much slow deliberate focus, and it's mentally exhausting.
+- Stopped after 5 drawings. I really don't like this style of practice. Luckily tomorrow uses gesture to break things up a lot.
